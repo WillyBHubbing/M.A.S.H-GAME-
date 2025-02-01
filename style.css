@@ -1,6 +1,7 @@
 /* Body styling */
 body {
-  background: #5c666a;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(187,26,57,1) 48%, rgba(0,212,255,1) 100%);  
   color: #fff;
   font-family: Helvetica, Arial;
   font-size: 27px;
@@ -15,7 +16,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 50px;
-  color: #fff;
+  color: #ffff;
   text-align: center;
 }
 
